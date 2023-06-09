@@ -7,3 +7,4 @@ git log --oneline -краткая информация о комите
 git push [rep_link] [branch_name]
 
 git push origin main
+
